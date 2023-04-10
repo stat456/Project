@@ -1,0 +1,19 @@
+---
+title: "Presentation Rubric"
+output: pdf_document
+---
+
+Groups are allowed to present live in class or submit a pre-recorded video to be viewed during class. Pre-recorded videos must be submitted by the end of the day on Monday April 17th.
+
+
+####  Project Presentation (40 % of project)
+
+1. __Introduction (10 points)__: define research object and state why it is important, interesting, or useful
+
+2. __Data: (10 points)__ Describe the data, with graphical displays.
+
+3. __Statistical Model with Priors (5 points):__ What statistical model is used to address your research question. What did you select as priors.
+
+4. __Results (5 points):__ Summarize results from the statistical model (with uncertainty)
+
+5. __Discussion/Conclusion (10 points):__ Translate statistical result to context of the problem.
