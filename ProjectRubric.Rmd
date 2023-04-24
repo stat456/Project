@@ -1,0 +1,33 @@
+---
+title: "Written Project Rubric"
+output: pdf_document
+---
+
+Groups are allowed to present live in class or submit a pre-recorded video to be viewed during class. Pre-recorded videos must be submitted by the end of the day on Monday April 17th.
+
+
+
+
+####  Written Project  (50 % of project)
+
+1. __Introduction (5 points)__: define research object and state why it is important, interesting, or useful
+
+2. __Data: (10 points)__ Describe the data, with graphical displays. Include captions, labels, titles on all graphics.
+
+3. __Statistical Model with Priors (10 points):__ Explain and justify the statistical model, with clear and complete notation, that is used to address your research question. What did you select as priors and why are they reasonable? Why is this particular model a reasonable choice?
+
+4. __Results (10 points):__ Summarize results from the statistical model (with uncertainty). State and assess the assumptions that underlie your modeling procedure.
+
+5. __Discussion/Conclusion (5 points):__ Translate statistical result back to the research question and address in the context of the problem.
+
+---
+
+__Project Structure (10 points):__
+
+- Length (10 page max. Shoot for about 5 pages. This would include figures that can be combined in panels or appropriately sized. Length does not include references/acknowledgements or appendix.)
+- Use of section headers / paragraphs within sections.
+- Cite / Acknowledge references and resources, including textbook and R packages.
+- Appropriate spelling / grammar
+- Submitted as a reproducible document with both PDF and .RMD/.QMD source code. 
+- R code and / or raw R output should not be included directly in the document. Consider using `kable()` to generate tables and/or using inline R commands for output.
+- Appendix with complete code.
