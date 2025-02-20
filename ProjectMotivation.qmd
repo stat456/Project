@@ -1,0 +1,19 @@
+---
+title: "Project Motivation"
+format: pdf
+editor: source
+---
+
+## Project Overview
+Intro to Bayesian statistics has a course project worth 40% of the final grade. The project will be completed individually on a dataset of the student's choosing. The project should follow the five steps of a Bayesian analysis from DBDA:
+
+  1. Identify the data relevant to the research question(s).
+  2. Define a descriptive model for the relevant data.
+  3. Specify a prior distribution on the parameters.
+  4. Use Bayesian inference to re-allocate probability across parameter values.
+  5. Check that the posterior predictions mimic the data with reasonable accuracy.
+  
+  
+## Project Motivation (5 points)
+
+This will build on the project proposal that you have previously completed. Write a draft introduction section for your project. This should be three or more paragraphs that outline your research question and summarize why your work is important and ultimately state the research question you are exploring. Then write a draft data section that will summarize the data, including how it was collected, the number of observations, and relevant variables. The data section should contain one or more figures that help motivate your research question.
